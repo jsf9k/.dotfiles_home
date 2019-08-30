@@ -1,3 +1,6 @@
 [user]
+    signingkey = 9664A4DD2FABC22E
 	name = Shane Frasier
 	email = maverick@maverickdolphin.com
+[commit]
+	gpgSign = true
